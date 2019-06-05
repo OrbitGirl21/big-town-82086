@@ -13,6 +13,10 @@
 	License: pixelarity.com/license
 */
 
+body{
+	background:salmon;
+}
+
 // Breakpoints.
 
 	@include breakpoints((
